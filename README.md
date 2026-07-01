@@ -2,7 +2,7 @@
 
 Lab projects developed for the **Advanced Algorithms** course (BSc in Computer Engineering, UIB, 2025/2026).
 
-The projects in this index were developed by **Aila Romaguera and Carlos Garrido**, except for Lab 1 (individual, Aila Romaguera). The group achieved the top score of the course across the full set of labs.
+The projects in this index were developed by **Aila Romaguera and Carlos Garrido**, except for Project 1 (individual, Aila Romaguera). The group achieved the top score of the course across the full set of labs.
 
 | # | Project | Description | Repo |
 |---|-----|-------------|------|
